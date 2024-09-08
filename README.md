@@ -3,7 +3,7 @@ Hi, my name is Guilherme (soon to be Clarisse). i'm a Brazilian student and deve
 
 <div align="center">
 <a href="https://github.com/RezeScarlet/ScarletFiles">
-  <img src="Hyfetch.png" height="40" />
+  <img src="Hyfetch.png" height="400" />
 </a>
 
 

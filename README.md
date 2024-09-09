@@ -11,7 +11,7 @@ Hi, my name is Guilherme (soon to be Clarisse). i'm a Brazilian student and deve
 
 <div align="center">
 <a href="https://github.com/RezeScarlet/ScarletFiles">
-  <img src="(https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white)" height="400" />
+  <img src="(https://custom-icon-badges.demolab.com/badge/neovim?logo=neovim&logoColor=white)" height="400" />
 </a>
 
 https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white

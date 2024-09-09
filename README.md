@@ -5,16 +5,30 @@ Hi, my name is Guilherme (soon to be Clarisse). i'm a Brazilian student and deve
 <a href="https://github.com/RezeScarlet/ScarletFiles">
   <img src="Hyfetch.png" height="400" />
 </a>
+</div>
 
 
 ## Interests
 
-[(https://custom-icon-badges.demolab.com/badge/neovim?logo=neovim&logoColor=white)](https://img.shields.io/badge/Neovim-color?style=for-the-badge&logo=Neovim&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92
-)
 <div align="center">
-<a href="https://github.com/RezeScarlet/ScarletFiles">
-  <img src="https://img.shields.io/badge/Neovim-color?style=for-the-badge&logo=Neovim&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92" height="400" />
+  
+  <img src="https://img.shields.io/badge/Neovim-color?style=for-the-badge&logo=Neovim&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92" height="35" />
+  <img src="https://img.shields.io/badge/C++-color?style=for-the-badge&logo=cplusplus&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92" height="35" />
+  <img src="https://img.shields.io/badge/ArchLinux-color?style=for-the-badge&logo=archlinux&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92" height="35" />
+  <img src="https://img.shields.io/badge/i3-color?style=for-the-badge&logo=i3&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92" height="35" />
+
+</div>
+
+## Stats
+
+<div align="center">
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RezeScarlet&theme=rose_pine&title_color=eb6f92&border_color=eb6f92" />
 </a>
 
-https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RezeScarlet)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RezeScarlet&layout=compact&langs_count=8&card_width=320&theme=rose_pine&title_color=eb6f92&border_color=eb6f92" />
+</a>
+  
+</div>

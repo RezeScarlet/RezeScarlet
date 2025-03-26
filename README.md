@@ -32,7 +32,7 @@ Hi, my name is Guilherme (soon to be Clarisse). i'm a Brazilian student and deve
   
 </div>
 
-## Interests
+## Contact 
 
 <div align="center">
   <a href="mailto:rezescarlet"><img src="https://img.shields.io/badge/Email-color?style=for-the-badge&logo=gmail&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92" height="35" /></a>

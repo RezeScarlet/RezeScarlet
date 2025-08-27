@@ -1,5 +1,5 @@
 # RezeScarlet
-Hi, my name is Guilherme (soon to be Clarisse). i'm a Brazilian student and developer, make sure to take a look is some of my projects.
+Hi, my name is Clarisse. I'm a Brazilian student and developer, make sure to take a look is some of my projects.
 
 <div align="center">
 <a href="https://github.com/RezeScarlet/ScarletFiles">

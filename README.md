@@ -15,7 +15,6 @@ Hi, my name is Clarisse. I'm a Brazilian student and developer, make sure to tak
   <img src="https://img.shields.io/badge/Neovim-color?style=for-the-badge&logo=Neovim&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92" height="35" />
   <img src="https://img.shields.io/badge/C++-color?style=for-the-badge&logo=cplusplus&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92" height="35" />
   <img src="https://img.shields.io/badge/ArchLinux-color?style=for-the-badge&logo=archlinux&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92" height="35" />
-  <img src="https://img.shields.io/badge/i3-color?style=for-the-badge&logo=i3&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92" height="35" />
   <img src="https://img.shields.io/badge/Terminal-color?style=for-the-badge&logo=iterm2&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92" height="35" />
 </div>
 
